@@ -1,5 +1,7 @@
 # Capstone-Project-on-Credit-Card-Default-Predictiion
 
+![credit-card-fraudulent-transaction-1024x567](https://github.com/sabitendu/Capstone-Project-on-Credit-Card-Default-Predictiion/assets/117887431/a6773747-e1ee-4be7-b858-7baf635ff584)
+
 ## 📋 Introduction
 Defaulted credit cards are a significant issue that has negative effects for both banks and customers. If a customer fails to fulfil his commitments, the bank loses money, the customer loses credibility in future payments, collection calls begin, and the case may be taken to court as a last resort. To avoid all of that problems, effective technologies that can anticipate credit card default are required. As a result, default credit card prediction is a significant, difficult, and beneficial issue that must be handled.
 
